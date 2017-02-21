@@ -1,0 +1,41 @@
+Connecting to host 192.168.188.20, port 5201
+[  4] local 192.168.188.88 port 65316 connected to 192.168.188.20 port 5201
+[  6] local 192.168.188.88 port 65317 connected to 192.168.188.20 port 5201
+[  8] local 192.168.188.88 port 65318 connected to 192.168.188.20 port 5201
+[ 10] local 192.168.188.88 port 65319 connected to 192.168.188.20 port 5201
+[ 12] local 192.168.188.88 port 65320 connected to 192.168.188.20 port 5201
+[ 14] local 192.168.188.88 port 65321 connected to 192.168.188.20 port 5201
+[ 16] local 192.168.188.88 port 65322 connected to 192.168.188.20 port 5201
+[ 18] local 192.168.188.88 port 65323 connected to 192.168.188.20 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-15.00  sec  10.5 MBytes  5.87 Mbits/sec                  
+[  6]   0.00-15.00  sec  10.4 MBytes  5.80 Mbits/sec                  
+[  8]   0.00-15.00  sec  8.75 MBytes  4.89 Mbits/sec                  
+[ 10]   0.00-15.00  sec  11.9 MBytes  6.64 Mbits/sec                  
+[ 12]   0.00-15.00  sec  10.0 MBytes  5.59 Mbits/sec                  
+[ 14]   0.00-15.00  sec  8.12 MBytes  4.54 Mbits/sec                  
+[ 16]   0.00-15.00  sec  9.88 MBytes  5.52 Mbits/sec                  
+[ 18]   0.00-15.00  sec  10.1 MBytes  5.66 Mbits/sec                  
+[SUM]   0.00-15.00  sec  79.6 MBytes  44.5 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-15.00  sec  10.5 MBytes  5.87 Mbits/sec                  sender
+[  4]   0.00-15.00  sec  10.3 MBytes  5.75 Mbits/sec                  receiver
+[  6]   0.00-15.00  sec  10.4 MBytes  5.80 Mbits/sec                  sender
+[  6]   0.00-15.00  sec  10.3 MBytes  5.74 Mbits/sec                  receiver
+[  8]   0.00-15.00  sec  8.75 MBytes  4.89 Mbits/sec                  sender
+[  8]   0.00-15.00  sec  8.63 MBytes  4.82 Mbits/sec                  receiver
+[ 10]   0.00-15.00  sec  11.9 MBytes  6.64 Mbits/sec                  sender
+[ 10]   0.00-15.00  sec  11.8 MBytes  6.58 Mbits/sec                  receiver
+[ 12]   0.00-15.00  sec  10.0 MBytes  5.59 Mbits/sec                  sender
+[ 12]   0.00-15.00  sec  9.90 MBytes  5.53 Mbits/sec                  receiver
+[ 14]   0.00-15.00  sec  8.12 MBytes  4.54 Mbits/sec                  sender
+[ 14]   0.00-15.00  sec  8.00 MBytes  4.47 Mbits/sec                  receiver
+[ 16]   0.00-15.00  sec  9.88 MBytes  5.52 Mbits/sec                  sender
+[ 16]   0.00-15.00  sec  9.72 MBytes  5.43 Mbits/sec                  receiver
+[ 18]   0.00-15.00  sec  10.1 MBytes  5.66 Mbits/sec                  sender
+[ 18]   0.00-15.00  sec  10.0 MBytes  5.60 Mbits/sec                  receiver
+[SUM]   0.00-15.00  sec  79.6 MBytes  44.5 Mbits/sec                  sender
+[SUM]   0.00-15.00  sec  78.6 MBytes  43.9 Mbits/sec                  receiver
+
+iperf Done.
